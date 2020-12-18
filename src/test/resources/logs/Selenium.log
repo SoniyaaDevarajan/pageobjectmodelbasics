@@ -1,0 +1,22 @@
+22:43:51,143 DEBUG devpinoyLogger:62 - Config file loaded!!
+22:43:51,146 DEBUG devpinoyLogger:77 - OR file loaded!!
+22:43:56,744 DEBUG devpinoyLogger:129 - Navigated to :http://www.zoho.com
+22:43:59,874 DEBUG devpinoyLogger:156 - Clicking on an element :loginlink_CSS
+22:43:59,953 DEBUG devpinoyLogger:170 - Typing in an element :email_CSS entered value as :soniyaa0501@yahoo.com
+22:44:00,016 DEBUG devpinoyLogger:156 - Clicking on an element :nextbtn_CSS
+22:44:00,088 DEBUG devpinoyLogger:170 - Typing in an element :password_CSS entered value as :S0niy@@0501
+22:44:00,132 DEBUG devpinoyLogger:156 - Clicking on an element :signinbtn_CSS
+22:44:01,797 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+22:44:01,798 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+22:44:01,798 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+22:44:01,799 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+22:44:01,799 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/Soniyaa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+22:44:04,220 DEBUG devpinoyLogger:156 - Clicking on an element :CRMlink_CSS
+22:44:04,372 DEBUG devpinoyLogger:156 - Clicking on an element :accountstab_CSS
+22:44:04,818 DEBUG devpinoyLogger:156 - Clicking on an element :createaccountbtn_CSS
+22:44:05,093 DEBUG devpinoyLogger:170 - Typing in an element :accountname_CSS entered value as :Soniyaa
+22:44:05,485 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+22:44:05,485 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+22:44:05,485 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+22:44:05,485 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+22:44:05,485 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/Soniyaa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
