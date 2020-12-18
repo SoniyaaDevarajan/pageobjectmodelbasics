@@ -24,8 +24,7 @@ public class LoginTest {
 		
 		cap.createAccount("Soniyaa");
 		
-		//Account created
-		
+				
 		
 		
 		
