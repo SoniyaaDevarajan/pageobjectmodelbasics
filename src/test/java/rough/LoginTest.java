@@ -12,7 +12,7 @@ public class LoginTest {
 
 	public static void main(String[] args) throws InterruptedException {
 		
-		//This is rough package
+		
 		HomePage home = new HomePage();
 		LoginPage login = home.goToLogin();
 		
